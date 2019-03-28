@@ -495,7 +495,6 @@ local defaultpack={
 -- Custom
 ["AYAYA"]="Interface\\AddOns\\SOMAemotes\\Custom\\AYAYA.tga:28:28",
 ["peepoClown"]="Interface\\AddOns\\SOMAemotes\\Custom\\peepoClown.tga:28:28",
-["clavydaddy"]="Interface\\AddOns\\SOMAemotes\\Custom\\clavydaddy.tga:28:28",
 ["mithrage"]="Interface\\AddOns\\SOMAemotes\\Custom\\mithrage.tga:28:28",
 ["bjornoVV"]="Interface\\AddOns\\SOMAemotes\\Custom\\bjornoVV.tga:28:28",
 ["bjornoVVona"]="Interface\\AddOns\\SOMAemotes\\Custom\\bjornoVVona.tga:28:28",
@@ -2561,7 +2560,6 @@ local emoticons={
 ["WhatsLupp"]="WhatsLupp",
 ["wheezy"]="wheezy",
 ["peepoClown"]="peepoClown",
-["clavydaddy"]="clavydaddy",
 ["mithrage"]="mithrage",
 -- DansGaming
 ["dan7"]="dan7",
@@ -4120,7 +4118,7 @@ local dropdown_options={
 [03]=  {"BTTV+FFZ 1","D:","4HEad","BBona","bUrself","ChogPamp","CiGrip","ConcernDoge","DogeWitIt","eShrug","FapFapFap","FishMoley","ForeverAlone","FuckYea","GabeN","gachiGASM","haHAA","HammerTime","HandsUp","HerbPerve"},
 [04]=  {"BTTV+FFZ 2","Hhhehehe","HYPERBRUH","HYPERTHONK","Kaged","Kermitpls","KKomrade","KKona","Krappa","LilZ","LUL","LULW","MEGALUL","MingLuL","NickyQ","OMEGALUL","PagChomp","Thonk","VapeNation","weSmart","ZULUL","ZULOL"},
 [05]=  {"chinglishtv","chingA","chingAus","chingBday","chingBinbash","chingChina","chingD","chingDad","chingDerp","chingEdgy","chingFour","chingHey","chingHype","chingKorea","chingLove","chingLul","chingLurk","chingMate","chingOne","chingPanda","chingRage","chingSad","chingSellout","chingTgi","chingThink","chingThree","chingTwo","chingUwot","chingWool"},
-[06]=  {"Custom 1","AYAYA","bjornoVV","bjornoVVona","chupBro","chupDerp","chupHappy","Clap","cptfriHE","Del","ednasly","endANELE","endBomb", "peepoClown", "clavydaddy", "mithrage", },
+[06]=  {"Custom 1","AYAYA","bjornoVV","bjornoVVona","chupBro","chupDerp","chupHappy","Clap","cptfriHE","Del","ednasly","endANELE","endBomb", "peepoClown", "mithrage", },
 [07]=  {"Custom 2","endCreep","endDawg","endFrench","endHarambe","endKyori","endNotLikeThis","endRP","endTrump","FlipThis","fruitBug","LaurGasm","lockOmegatayys","marcithDerp","marcithMath","monkeyS","oldmorDim","PogCena","selyihHEY","SuicideThinking","TableHere","tntLIDL","WhatsLupp","wheezy"},
 [08]=  {"Destiny","AUTISTINY","Blubstiny","Depresstiny","DestiSenpaii","Disgustiny","GODSTINY","HmmStiny","Klappa","LeRuse","Memegasm","MLADY","NOBULLY","NoTears","OverRustle","PEPE","REE","SURPRISE","SWEATSTINY","YEE"},
 [09]=  {"Emojis",":blush:",":door:",":guitar:",":gun:",":joy:",":muscle:",":ok_hand:",":phone:",":point_right:",":rage:",":rat:",":sun_with_face:",":thinking:",":wheelchair:"},
