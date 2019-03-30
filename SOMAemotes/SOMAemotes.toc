@@ -1,7 +1,7 @@
 ## Interface: 70300
 ## Title: SOMAemotes
 ## Author: Phosgene @ SOMA	
-## Version: v1.03
+## Version: v1.04
 ## SavedVariablesPerCharacter: Emoticons_Settings Emoticons_Eyecandy
 ## Description: Soma - Magtheridon most common used emotes for use in WoW
 UIDropDownMenuTemplates.xml
